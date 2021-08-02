@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/Font.spritefont","C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.233589
+"C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/nvlobby_new_negz.png","C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/bin/Windows/nvlobby_new_negz.xnb","TextureProcessor","Texture2DContent",378490,1048661,0.0593857
+"C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/Plane.FBX","C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",18112,1658,0.1477764
+"C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/ProjectiveTexture.fx","C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/bin/Windows/ProjectiveTexture.xnb","EffectProcessor","CompiledEffectContent",1911,2960,0.3874867
+"C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/ShadowMap.fx","C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/bin/Windows/ShadowMap.xnb","EffectProcessor","CompiledEffectContent",1150,1687,0.332574
+"C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/torus.FBX","C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/bin/Windows/torus.xnb","ModelProcessor","ModelContent",88896,53690,0.0233821

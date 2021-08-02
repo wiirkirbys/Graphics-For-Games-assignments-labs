@@ -1,0 +1,16 @@
+C:\Users\mbkkm\source\repos\SimpleEngine\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.csprojAssemblyReference.cache
+C:\Users\mbkkm\source\repos\SimpleEngine\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.AssemblyInfoInputs.cache
+C:\Users\mbkkm\source\repos\SimpleEngine\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.AssemblyInfo.cs
+C:\Users\mbkkm\source\repos\SimpleEngine\SimpleEngine\bin\Debug\netcoreapp3.1\SimpleEngine.deps.json
+C:\Users\mbkkm\source\repos\SimpleEngine\SimpleEngine\bin\Debug\netcoreapp3.1\SimpleEngine.dll
+C:\Users\mbkkm\source\repos\SimpleEngine\SimpleEngine\bin\Debug\netcoreapp3.1\SimpleEngine.pdb
+C:\Users\mbkkm\source\repos\SimpleEngine\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.dll
+C:\Users\mbkkm\source\repos\SimpleEngine\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.pdb
+C:\Users\mbkkm\source\repos\Lab6\SimpleEngine\bin\Debug\netcoreapp3.1\SimpleEngine.deps.json
+C:\Users\mbkkm\source\repos\Lab6\SimpleEngine\bin\Debug\netcoreapp3.1\SimpleEngine.dll
+C:\Users\mbkkm\source\repos\Lab6\SimpleEngine\bin\Debug\netcoreapp3.1\SimpleEngine.pdb
+C:\Users\mbkkm\source\repos\Lab6\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.csprojAssemblyReference.cache
+C:\Users\mbkkm\source\repos\Lab6\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.AssemblyInfoInputs.cache
+C:\Users\mbkkm\source\repos\Lab6\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.AssemblyInfo.cs
+C:\Users\mbkkm\source\repos\Lab6\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.dll
+C:\Users\mbkkm\source\repos\Lab6\SimpleEngine\obj\Debug\netcoreapp3.1\SimpleEngine.pdb

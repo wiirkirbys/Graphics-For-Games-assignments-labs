@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/Helicopter.fbx","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/Helicopter.xnb","ModelProcessor","ModelContent",68752,24017,0.4411999
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/HelicopterTexture.png","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/HelicopterTexture.xnb","TextureProcessor","Texture2DContent",2544,1048661,0.0377341
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/Reflection.fx","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/Reflection.xnb","EffectProcessor","CompiledEffectContent",1840,2362,0.4135839
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/skybox/cube.fbx","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/skybox/cube.xnb","ModelProcessor","ModelContent",16784,908,0.0055296
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/skybox/Skybox.fx","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/skybox/Skybox.xnb","EffectProcessor","CompiledEffectContent",1230,1597,0.3984773
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/skybox/SunsetPNG1.png","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.042415
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/skybox/SunsetPNG2.png","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0409142
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/skybox/SunsetPNG3.png","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0652783
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/skybox/SunsetPNG4.png","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.033444
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/skybox/SunsetPNG5.png","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0355946
+"C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/skybox/SunsetPNG6.png","C:/Users/mbkkm/source/repos/Lab6/Lab6/Content/bin/Windows/skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0520483

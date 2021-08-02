@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mbkkm/source/repos/Lab2/Lab2/Content/logo_mg.jpg","C:/Users/mbkkm/source/repos/Lab2/Lab2/Content/bin/Windows/Content/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.2148969
+"C:/Users/mbkkm/source/repos/Lab2/Lab2/Content/texture.fx","C:/Users/mbkkm/source/repos/Lab2/Lab2/Content/bin/Windows/Content/texture.xnb","EffectProcessor","CompiledEffectContent",1179,1484,0.4497144

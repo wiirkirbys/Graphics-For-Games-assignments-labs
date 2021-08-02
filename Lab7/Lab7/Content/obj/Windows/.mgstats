@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/BumpMap.fx","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/BumpMap.xnb","EffectProcessor","CompiledEffectContent",2407,3637,0.4915857
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/NormalMaps/art.PNG","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/NormalMaps/art.xnb","TextureProcessor","Texture2DContent",14851,262229,0.0631316
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/NormalMaps/BumpTest.png","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/NormalMaps/BumpTest.xnb","TextureProcessor","Texture2DContent",632916,1048661,0.0601705
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/NormalMaps/crossHatch.png","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/NormalMaps/crossHatch.xnb","TextureProcessor","Texture2DContent",276085,1048661,0.0464532
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/NormalMaps/monkey.png","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/NormalMaps/monkey.xnb","TextureProcessor","Texture2DContent",32389,262229,0.0199139
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/NormalMaps/nm.dds","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/NormalMaps/nm.xnb","TextureProcessor","TextureCubeContent",393344,393319,0.0343666
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/NormalMaps/round.png","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/NormalMaps/round.xnb","TextureProcessor","Texture2DContent",265825,1048661,0.0627119
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/NormalMaps/saint.png","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/NormalMaps/saint.xnb","TextureProcessor","Texture2DContent",64372,262229,0.0113796
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/NormalMaps/science.PNG","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/NormalMaps/science.xnb","TextureProcessor","Texture2DContent",18386,262229,0.0081686
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/NormalMaps/square.png","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/NormalMaps/square.xnb","TextureProcessor","Texture2DContent",66866,1048661,0.0577392
+"C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/Plane.FBX","C:/Users/mbkkm/source/repos/Lab7/Lab7/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",20768,2290,0.111668

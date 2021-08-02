@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/Font.spritefont</File>
+    <File>C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/nvlobby_new_negz.png</File>
+    <File>C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/Plane.FBX</File>
+    <File>C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/ProjectiveTexture.fx</File>
+    <File>C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/ShadowMap.fx</File>
+    <File>C:/Users/mbkkm/source/repos/Lab8/Lab8/Content/torus.FBX</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

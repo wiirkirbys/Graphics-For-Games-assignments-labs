@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mbkkm/source/repos/Lab10/Lab10/Content/fire.png","C:/Users/mbkkm/source/repos/Lab10/Lab10/Content/bin/Windows/fire.xnb","TextureProcessor","Texture2DContent",146324,262229,0.1427412
+"C:/Users/mbkkm/source/repos/Lab10/Lab10/Content/ParticleShader.fx","C:/Users/mbkkm/source/repos/Lab10/Lab10/Content/bin/Windows/ParticleShader.xnb","EffectProcessor","CompiledEffectContent",1505,2054,0.3644048
+"C:/Users/mbkkm/source/repos/Lab10/Lab10/Content/torus.FBX","C:/Users/mbkkm/source/repos/Lab10/Lab10/Content/bin/Windows/torus.xnb","ModelProcessor","ModelContent",88896,53690,0.1235043
