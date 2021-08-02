@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mbkkm/source/repos/FinalProject/FinalProject/Content/DepthandNormal.fx","C:/Users/mbkkm/source/repos/FinalProject/FinalProject/Content/bin/Windows/DepthandNormal.xnb","EffectProcessor","CompiledEffectContent",1261,2020,0.3954346
+"C:/Users/mbkkm/source/repos/FinalProject/FinalProject/Content/Font.spritefont","C:/Users/mbkkm/source/repos/FinalProject/FinalProject/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.2594897
+"C:/Users/mbkkm/source/repos/FinalProject/FinalProject/Content/objects.FBX","C:/Users/mbkkm/source/repos/FinalProject/FinalProject/Content/bin/Windows/objects.xnb","ModelProcessor","ModelContent",192320,152994,0.192744
+"C:/Users/mbkkm/source/repos/FinalProject/FinalProject/Content/Plane.FBX","C:/Users/mbkkm/source/repos/FinalProject/FinalProject/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",18112,1658,0.1910681

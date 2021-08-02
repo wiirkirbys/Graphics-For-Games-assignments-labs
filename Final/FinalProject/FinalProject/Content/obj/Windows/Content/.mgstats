@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/DepthandNormal.fx","C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/bin/Windows/Content/DepthandNormal.xnb","EffectProcessor","CompiledEffectContent",1261,2020,0.8574603
+"C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/EdgeShader.fx","C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/bin/Windows/Content/EdgeShader.xnb","EffectProcessor","CompiledEffectContent",2727,3125,0.5699308
+"C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/Font.spritefont","C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.2179788
+"C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/objects.FBX","C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/bin/Windows/Content/objects.xnb","ModelProcessor","ModelContent",192320,152994,0.2714528
+"C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/Plane.FBX","C:/Users/mbkkm/Documents/CPI 411/FinalProject/FinalProject/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",18112,1658,0.0064906

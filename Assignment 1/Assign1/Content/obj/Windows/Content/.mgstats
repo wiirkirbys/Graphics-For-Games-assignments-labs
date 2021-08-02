@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/box.fbx","C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/bin/Windows/Content/box.xnb","ModelProcessor","ModelContent",20592,1502,0.2000968
+"C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/bunny.FBX","C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/bin/Windows/Content/bunny.xnb","ModelProcessor","ModelContent",2733392,1254684,0.3190015
+"C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/Font.spritefont","C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.1096893
+"C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/sphere.fbx","C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/bin/Windows/Content/sphere.xnb","ModelProcessor","ModelContent",97856,93052,0.0181553
+"C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/teapot.fbx","C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/bin/Windows/Content/teapot.xnb","ModelProcessor","ModelContent",353152,374812,0.0662611
+"C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/Texture.fx","C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/bin/Windows/Content/Texture.xnb","EffectProcessor","CompiledEffectContent",6304,9412,0.4434405
+"C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/Torus.FBX","C:/Users/mbkkm/Documents/CSE 411/Assignment 1/Assign1/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",65408,53690,0.012192

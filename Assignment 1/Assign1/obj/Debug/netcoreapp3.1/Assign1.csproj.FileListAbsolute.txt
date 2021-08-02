@@ -1,0 +1,123 @@
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Content\bunny.xnb
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Content\Texture.xnb
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Assign1.exe
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Assign1.deps.json
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Assign1.runtimeconfig.json
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Assign1.runtimeconfig.dev.json
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Assign1.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Assign1.pdb
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\obj\Debug\netcoreapp3.1\Assign1.csprojAssemblyReference.cache
+C:\Users\mbkkm\source\repos\Lab3\Lab3\obj\Debug\netcoreapp3.1\Assign1.AssemblyInfoInputs.cache
+C:\Users\mbkkm\source\repos\Lab3\Lab3\obj\Debug\netcoreapp3.1\Assign1.AssemblyInfo.cs
+C:\Users\mbkkm\source\repos\Lab3\Lab3\obj\Debug\netcoreapp3.1\Assign1.csproj.CopyComplete
+C:\Users\mbkkm\source\repos\Lab3\Lab3\obj\Debug\netcoreapp3.1\Assign1.dll
+C:\Users\mbkkm\source\repos\Lab3\Lab3\obj\Debug\netcoreapp3.1\Assign1.pdb
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Content\box.xnb
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Content\sphere.xnb
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Content\teapot.xnb
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Content\Torus.xnb
+C:\Users\mbkkm\source\repos\Lab3\Lab3\bin\Debug\netcoreapp3.1\Content\Font.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Content\box.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Content\bunny.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Content\Font.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Content\sphere.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Content\teapot.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Content\Texture.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Content\Torus.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Assign1.exe
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Assign1.deps.json
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Assign1.runtimeconfig.json
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Assign1.runtimeconfig.dev.json
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Assign1.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Assign1.pdb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\obj\Debug\netcoreapp3.1\Assign1.csprojAssemblyReference.cache
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\obj\Debug\netcoreapp3.1\Assign1.AssemblyInfoInputs.cache
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\obj\Debug\netcoreapp3.1\Assign1.AssemblyInfo.cs
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\obj\Debug\netcoreapp3.1\Assign1.csproj.CopyComplete
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\obj\Debug\netcoreapp3.1\Assign1.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Lab3\obj\Debug\netcoreapp3.1\Assign1.pdb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Assign1.exe
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Content\box.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Content\bunny.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Content\Font.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Content\sphere.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Content\teapot.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Content\Texture.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Content\Torus.xnb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Assign1.deps.json
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Assign1.runtimeconfig.json
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Assign1.runtimeconfig.dev.json
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Assign1.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Assign1.pdb
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\obj\Debug\netcoreapp3.1\Assign1.csprojAssemblyReference.cache
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\obj\Debug\netcoreapp3.1\Assign1.AssemblyInfoInputs.cache
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\obj\Debug\netcoreapp3.1\Assign1.AssemblyInfo.cs
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\obj\Debug\netcoreapp3.1\Assign1.csproj.CopyComplete
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\obj\Debug\netcoreapp3.1\Assign1.dll
+C:\Users\mbkkm\Documents\CSE 411\Assignment 1\Assign1\obj\Debug\netcoreapp3.1\Assign1.pdb

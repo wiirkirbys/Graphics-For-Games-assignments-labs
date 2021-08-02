@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/box.fbx","C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/bin/Windows/box.xnb","ModelProcessor","ModelContent",20592,1502,0.1926968
+"C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/bunny.FBX","C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254684,0.2693599
+"C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/Font.spritefont","C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.1104672
+"C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/sphere.fbx","C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/bin/Windows/sphere.xnb","ModelProcessor","ModelContent",97856,93052,0.0221315
+"C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/teapot.fbx","C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/bin/Windows/teapot.xnb","ModelProcessor","ModelContent",353152,374812,0.083214
+"C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/Texture.fx","C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/bin/Windows/Texture.xnb","EffectProcessor","CompiledEffectContent",6304,9412,0.5195749
+"C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/Torus.FBX","C:/Users/mbkkm/source/repos/Lab3/Lab3/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",65408,53690,0.013699
